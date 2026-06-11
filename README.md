@@ -97,7 +97,7 @@ Payroll data containing bank accounts and personal IDs was exfiltrated. Under GD
 
 | File | Description |
 |------|-------------|
-| `HomeLab3_rolita.docx` | Full investigation report (short & precise format) |
+| `HomeLab3_SOC investigation.docx` | Full investigation report (short & precise format) |
 | `README.md` | This file |
 
 ---
