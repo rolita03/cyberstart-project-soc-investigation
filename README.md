@@ -108,10 +108,10 @@ This is **Lab 3** in a series of hands-on cybersecurity home labs I'm building a
 
 | Lab | Topic | Status |
 |-----|-------|--------|
-| Lab 1 | IAM & Access Control | ✅ Completed |
-| Lab 2 | Backup & Business Continuity | ✅ Completed |
+| Lab 1 | Cryptography, Authentication & Identity and Access Management | ✅ Completed |
+| Lab 2 |phishing detector | ✅ Completed |
 | **Lab 3** | **SOC & Incident Response (this lab)** | ✅ Completed |
-| Lab 4 | Vendor & Third-Party Risk | 🔄 In Progress |
+| Lab 4 | IAM & Access Control| 🔄 In Progress |
 
 ---
 
